@@ -45,3 +45,90 @@ font-weight: 700;
     margin-left: 300px
     
 }
+
+/* it was a main section */
+.menu-img{
+    width: 400px;
+    padding: 115px;
+    justify-content: center;
+    
+    
+}
+.menu-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    border: 2px solid rgb(194, 194, 194);
+}
+.h1-section{
+    color: #151414;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.menu-description{
+    color:  #131111;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 5px;
+    }
+.list-item{
+    list-style: none;
+}
+.menu-text{
+    margin-top: 250px;
+    padding-right: 80px;
+}
+/* my plan section */
+.title-h2{
+    color:  #151414;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    }
+.skills-container{
+    width: 50%;
+    margin-left: 20%;
+    display: flex;
+    padding: 25px;
+     justify-content:space-around;
+     gap: 50px;
+    
+
+    }
+.background-image{
+    width: 80%;
+    margin: 50px;
+    padding: 50px 40px 30px 100px ;
+    background-image: url(../images/watch.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+
+
+
+}    
+.main-last{
+    padding: 5px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.call-now{
+    padding: 13px 20px;
+
+    border-radius: 5px;
+    background: #FFF;
+}
